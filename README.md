@@ -1,4 +1,4 @@
-# Forensic Investigation Simulations (FSI DI)
+# Forensic Investigation Simulations
 
 This repository contains simulation and evaluation code for studying the trade-offs in clinical audit log forensics across three distinct workflows:
 
